@@ -1,0 +1,16 @@
+.form__button-close {
+  width: 32px;
+  height: 32px;
+  grid-column: 2;
+  background: #000000;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+@media (max-width: 540px) {
+  .form__button-close {
+    grid-row: 1;
+    width: 22px;
+    height: 22px;
+  }
+}

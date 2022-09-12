@@ -1,0 +1,19 @@
+.form__input-error {
+  width: 358px;
+  font-family: Inter, Georgia, "Times New Roman", Times, serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #ff0000;
+  opacity: 0;
+  transition: 0.3s;
+  height: 30px;
+}
+
+
+@media (max-width: 540px) {
+  .form__input-error {
+    width: 238px;
+  }
+}

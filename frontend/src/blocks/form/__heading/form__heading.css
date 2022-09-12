@@ -1,0 +1,18 @@
+.form__heading {
+  width: 320px;
+  font-family: Inter, Georgia, "Times New Roman", Times, serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 29px;
+  color: #000000;
+  margin: 34px 64px 54px 36px;
+}
+@media (max-width: 540px) {
+  .form__heading {
+    width: 238px;
+    margin: 25px auto 75px;
+    font-size: 18px;
+    line-height: 22px;
+  }
+}

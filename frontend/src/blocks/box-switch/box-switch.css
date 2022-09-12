@@ -1,0 +1,8 @@
+.box-switch {
+  height: 22px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}

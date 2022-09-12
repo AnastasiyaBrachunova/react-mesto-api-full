@@ -1,0 +1,22 @@
+.form__button-submit {
+  padding: 0;
+  width: 358px;
+  height: 50px;
+  margin: 30px auto 37px;
+  background: #000000;
+  border: none;
+  border-radius: 2px;
+  font-family: Inter, Georgia, "Times New Roman", Times, serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #ffffff;
+}
+@media (max-width: 540px) {
+  .form__button-submit {
+    width: 238px;
+    margin: 45px auto 25px;
+  }
+}

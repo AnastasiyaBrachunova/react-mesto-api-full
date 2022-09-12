@@ -1,0 +1,17 @@
+.footer__copyright {
+  max-width: 318px;
+  margin-top: 5px;
+  font-family: Inter, Georgia, "Times New Roman", Times, serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  color: #545454;
+}
+@media (max-width: 540px) {
+  .footer__copyright {
+    font-size: 14px;
+    line-height: 17px;
+    margin: 0;
+  }
+}

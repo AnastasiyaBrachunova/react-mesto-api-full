@@ -1,0 +1,17 @@
+.add-button {
+  width: 149px;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 1);
+  border: 1px solid rgba(255, 255, 255, 1);
+  background-image: url(../../images/Add_button.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+}
+@media (max-width: 540px) {
+  .add-button {
+    width: 100%;
+    text-align: center;
+  }
+}

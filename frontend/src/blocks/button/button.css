@@ -1,0 +1,9 @@
+.button:hover:enabled {
+  opacity: 0.6;
+  transition: 0.35s linear 0.001s;
+  cursor: pointer;
+}
+
+.button:disabled {
+  cursor: default;
+}

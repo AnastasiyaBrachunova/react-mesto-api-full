@@ -1,0 +1,6 @@
+.form__button-submit_invalid {
+  opacity: 0.2;
+  border: 1px solid #000000;
+  background: #e5e5e5;
+  color: #000000;
+}

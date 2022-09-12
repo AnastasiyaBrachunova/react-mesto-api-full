@@ -1,0 +1,26 @@
+.profile__name {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 294px;
+  font-family: Inter, Georgia, "Times New Roman", Times, serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 42px;
+  line-height: 114%;
+  color: #ffffff;
+}
+
+@media (max-width: 1200px) {
+  .profile__name {
+    font-size: calc(100vw / 30.5);
+  }
+}
+
+@media (max-width: 540px) {
+  .profile__name {
+    text-align: center;
+    font-size: 27px;
+    line-height: 33px;
+  }
+}

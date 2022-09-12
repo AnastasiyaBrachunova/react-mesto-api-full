@@ -1,0 +1,20 @@
+.profile__job {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100%;
+  font-family: Inter, Georgia, "Times New Roman", Times, serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+  margin: 0;
+}
+@media (max-width: 540px) {
+  .profile__job {
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+    line-height: 17px;
+  }
+}

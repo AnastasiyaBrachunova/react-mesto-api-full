@@ -1,0 +1,10 @@
+.card__item {
+  box-sizing: border-box;
+  width: calc(100% - 15px * 2);
+  max-height: 79px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 21px;
+}

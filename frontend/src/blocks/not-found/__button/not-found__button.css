@@ -1,0 +1,12 @@
+.not-found__button {
+  width: 358px;
+  margin: 15px auto 37px;
+  font-family: Inter, Georgia, "Times New Roman", Times, serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #ffffff;
+  text-align: center;
+  visibility: visible;
+}

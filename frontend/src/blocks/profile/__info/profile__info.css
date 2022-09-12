@@ -1,0 +1,33 @@
+.profile__info {
+  display: grid;
+  grid-template-columns: 1fr 24px;
+  grid-template-rows: 39px 18px;
+  gap: 16px 18px;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 336px;
+  margin: 0 245px 0 30px;
+}
+
+@media (max-width: 830px) {
+  .profile__info {
+    margin: 0 50px 0 30px;
+  }
+}
+@media (max-width: 600px) {
+  .profile__info {
+    margin-right: 10px;
+    max-width: 260px;
+  }
+}
+@media (max-width: 540px) {
+  .profile__info {
+    max-width: 217px;
+    margin: 26px auto 33px;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 1fr 18px;
+    grid-template-rows: 26px 14px;
+    gap: 14px 10px;
+  }
+}

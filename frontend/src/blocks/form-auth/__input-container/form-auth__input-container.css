@@ -1,0 +1,14 @@
+.form-auth__input-container {
+  width: 358px;
+  border: none;
+  border-bottom: 2px solid #cccccc;
+  background-color: black;
+  margin: 0;
+  padding: 0 0 13px 0;
+  font-family: Inter, Georgia, "Times New Roman", Times, serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #cccccc;
+}

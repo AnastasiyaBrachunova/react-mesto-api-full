@@ -1,0 +1,9 @@
+.profile__change-avatar {
+  z-index: 30;
+  width: auto;
+  height: auto;
+  margin: auto;
+  grid-row: 1;
+  grid-column: 1;
+  opacity: 1;
+}
