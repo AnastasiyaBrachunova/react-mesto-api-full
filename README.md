@@ -1,12 +1,5 @@
 # react-mesto-api-full
 Репозиторий для приложения проекта `Mesto`, включающий фронтенд и бэкенд части приложения со следующими возможностями: авторизации и регистрации пользователей, операции с карточками и пользователями. Бэкенд расположите в директории `backend/`, а фронтенд - в `frontend/`. 
   
-Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-<<<<<<< HEAD
-[Ссылка доступа для приложения](https://abrachunova.front.nomoredomains.sbs) 
-=======
-https://abrachunova.front.nomoredomains.sbs домен фронта
-https://api.abrachunova.front.nomoredomains.sbs домен бекэнда
-
->>>>>>> 4776c246836794734d8f0765d1824bf43288ada9
+https://abrachunova.front.nomoredomains.sbs 
