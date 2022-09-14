@@ -30,7 +30,7 @@ const options = {
     'http://abrachunova.front.nomoredomains.sbs',
     'https://abrachunova.front.nomoredomains.sbs',
     'https://AnastasiyaBrachunova.github.io',
-    'http://AnastasiyaBrachunova.github.io'
+    'http://AnastasiyaBrachunova.github.io',
   ],
   methods: ['GET', 'HEAD', 'PUT', 'PATCH', 'POST', 'DELETE', 'OPTIONS'],
   preflightContinue: false,
